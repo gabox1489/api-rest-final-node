@@ -1,0 +1,11 @@
+{
+    "nombre": "API Rest Express - Usuarios y Cursos",
+    "configDB": {
+        "HOST": "mongodb://localhost:27017/apifinal"
+    },
+    "configToken": {
+        "SEED": "secret",
+        "expiration": "24h"
+    }
+
+}
